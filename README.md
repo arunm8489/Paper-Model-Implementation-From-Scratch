@@ -12,5 +12,9 @@ I suggest you to go through my blogs before going through the notebook
 
 ## VGG 11-19
 
-## MobileNet V1
+## MobileNet V1 : 
+* Blog: https://medium.com/datadriveninvestor/review-on-mobilenet-v1-abec7888f438
+
+## MobileNet V2 : 
+* Blog: https://medium.com/datadriveninvestor/review-on-mobile-net-v2-ec5cb7946784
 
