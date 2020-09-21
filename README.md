@@ -1,6 +1,6 @@
 # Paper-Model-Implementation-From-Scratch
 
-This repository consisits of my implementations(rough) of different networks and algorithms from scratch using pytorch in jupyter notebooks.I think this will will helpful for ML enthusiasts who tries to build algorithms from scratch.
+This repository consisits of my implementations(rough) of different networks and algorithms from scratch in jupyter notebooks.I think this will will helpful for ML enthusiasts who tries to build algorithms from scratch and to understand it better.
 
 I suggest you to go through my blogs before going through the notebook
 
