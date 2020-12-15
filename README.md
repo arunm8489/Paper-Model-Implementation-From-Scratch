@@ -34,3 +34,5 @@ I suggest you to go through my blogs before going through the notebook
 * Blog: https://medium.com/datadriveninvestor/an-overview-on-u-net-architecture-d6caabf7caa4
 
 ## Unet++
+
+## SegNet
